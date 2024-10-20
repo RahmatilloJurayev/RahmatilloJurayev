@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahmatillo Jurayev</h1>
 <h3 align="center">A passionate Java backend developer Tashkent/Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmatillojurayev" alt="rahmatillojurayev" /></a> </p>
 
 - 🔭 I’m currently working on **Water Delivery**
 
