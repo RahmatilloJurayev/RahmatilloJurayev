@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Water Delivery**
 
-- 🧑‍💻 I'm Telegram channel [@rahmatillo_jurayev_java](t.me/rahmatillo_jurayev_java)
+- 🧑‍💻 I'm Telegram channel [@rahmatillo_jurayev_java](https://t.me/rahmatillo_jurayev_java)
 
 - 📫 How to reach me **raxmatillojurayev94@gmail.com**
 
