@@ -2,9 +2,6 @@
 
 A passionate Java backend developer from Tashkent/Uzbekistan
 
-- 🔨 I’m currently working on [Hotel Management System](#)
-- 👨‍💻 All of my projects are available at [https://t.me/rahmatillo_projects](https://t.me/rahmatillo_projects)
-- 📫 How to reach me: rahmatillojurayev@example.com
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/rahmatillo-jurayev)
