@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rahmatillo Jurayev</h1>
 <h3 align="center">A passionate Java backend developer Tashkent/Uzbekistan</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmatillojurayev" alt="rahmatillojurayev" /></a> </p>
+
 - 🔭 I’m currently working on **Water Delivery**
+
+- 👯 I’m looking to collaborate on [@rahmatillo_jurayev_java](@rahmatillo_jurayev_java)
 
 - 📫 How to reach me **raxmatillojurayev94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raxmatillojurayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raxmatillojurayev" height="30" width="40" /></a>
+<a href="https://instagram.com/rahmatulloh_jurayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahmatulloh_jurayev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
